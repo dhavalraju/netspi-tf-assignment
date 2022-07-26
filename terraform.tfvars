@@ -1,0 +1,10 @@
+# Define Variables
+component         = "NetSPI-assignment"
+region            = "us-east-1"
+cidr_block        = "10.0.0.0/16"
+subnet_cidr_block = "10.0.1.0/24"
+ami_id            = "ami-0c02fb55956c7d316"
+public_key        = "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQD6OT2Da2ymGA7WlIKC1D+uYq+kmE1g++WGPQ6BQNuBkKE048pQ8RyoSLNeyFxoWPS0Fxr+smiyykfxVOuLWDmv81t/R4TQWKY8x8RVk7oTN9s8syb4sABzXkzpfKIMwnyY9Jc5VaMrDma3MmXhdPcYuFG+xp8VtRI7kE9u058QPtzOfqnHj36XfJ1ebSch5KyOXePJX72QnqYvRQKfP9i9nvhpdgJ4v4dZS4YLoqfi+rvAxLu/nFNCHBicss5S25RfM4Cf5tFY2m3LI3cX47maFdb/kakXy9bFfkGFZnBHX1TfNuid1d0Xvb23aaPuYW3AmTeUQoZ+2hLy+crSl0kc5YO18JdVjn1dvKGXjyEk+tl2h8sQaHNvAOxFbRDxAHnjDmsws1aVDK7HNZRfzJ2t3FfrhUrPeRO4QwNfC2L9UAj7SCxw49j6I5apHBnYZl1QCqBa+eqhseyO7oOwHTLWAdC+hPXVrImou7y4TI0Z/UgLXnkt/TFSSM7cRCTfYOU= dhavalraju"
+instance_type     = "t2.micro"
+public_ip         = "44.209.208.164"
+bucket_name       = "netspi-tf-assignment-2022"
